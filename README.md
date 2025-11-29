@@ -9,6 +9,6 @@ de químicos que en muchos casos son cancerígenos o contraproducentes y nocivos
 variables de diseño y operación, y amoldarlo a diferentes escenarios de interés práctico.
 PTEC es un desarrollo de ETI PATAGONIA y busca patrocinadores e inversores para culminar el proyecto. Para mayor informacion, comunicarse vía correo electrónico o mensaje privado
 
-Un video de nuestro proyecto ( https://www.youtube.com/watch?v=AnWnhU66LvI ):
+Un video de los inicios de nuestro proyecto ( https://www.youtube.com/watch?v=AnWnhU66LvI ):
 
 [![Video](https://img.youtube.com/vi/AnWnhU66LvI/0.jpg)](https://www.youtube.com/watch?v=AnWnhU66LvI)
