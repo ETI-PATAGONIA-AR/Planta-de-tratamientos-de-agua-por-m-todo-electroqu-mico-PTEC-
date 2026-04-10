@@ -1,5 +1,6 @@
 <img width="1006" height="507" alt="TK_PTECv3" src="https://github.com/user-attachments/assets/7b328769-10ff-4a30-a86c-5043fcc2ed54" />
 
+# Que es PTEC?
 PTEC es un proyecto que ya ha superado todas las expectativas en escala pequeña y en esta segunda instancia, trata sobre la optimización, síntesis y diseño de sistemas de tratamiento 
 de aguas residuales para eliminación biológica de nutrientes, neutralización de olores, clarificación del agua y separación de solidos basados en un modelo exclusivo de nuestra innovación, 
 con procesos que aplican técnicas de programación matemática, electroquímica y física mecánica.
